@@ -1,0 +1,21 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1rem;
+}
+header, section, footer {
+    padding: 1rem;
+    border: dotted gray 1px;
+}
+figure img {
+    max-width: 100%;
+}
+h1, 
+p {
+    margin-block-end: 1rem;
+}
+h1 {
+    font-size: 1.5rem;
+}
